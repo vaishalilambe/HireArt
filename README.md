@@ -29,7 +29,7 @@
  5. Splitted tha "Date of Contact" column into three columns "Year", "Month" and "Day"
  6. After splitting Date of Contact column, we can see that this has 5 Years of data and maximum appearing top year is 2014
  7. Then found out count of clients contacted per Month
-     [https://github.com//vaishalilambe/HireArt/1.png]
+    ![Image 1] (https://github.com//vaishalilambe/HireArt/1.png?raw=true)
  8. Then got to know that month October [10] has maximum number of clients contacted which is 213
  9. Again took count per year per month and found that maximum number of clients are contacted in 2013, 10 which is 60
  10. Now, there was a question that as there are only 35 unique clients it might be possible that all clients not been contacted in that month but in different month
